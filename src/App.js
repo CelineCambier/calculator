@@ -198,7 +198,7 @@ function App() {
           </a>{" "}
           and hosted on{" "}
           <a
-            href="https://spontaneous-sprite-9b35cd.netlify.app/"
+            href="https://visionary-cobbler-bfd68b.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
